@@ -1,1 +1,1 @@
-How many cats could comfortably inhabit CIT?
+What is the maximum number of cats that could comfortably inhabit CIT?
